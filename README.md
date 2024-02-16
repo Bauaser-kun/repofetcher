@@ -12,10 +12,3 @@ Before running the application, make sure you have the following installed:
 
 - Java Development Kit (JDK) version 8 or later
 - Maven or Gradle (for dependency management)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/repofetcher.git
